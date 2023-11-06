@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{FBB11F7D-2468-46EE-9EE1-EC32E58CD7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.TEST", "Triangle.TEST\Triangle.TEST.csproj", "{CCE1E8DB-99AD-493E-B21B-35E0DB5721DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB11F7D-2468-46EE-9EE1-EC32E58CD7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB11F7D-2468-46EE-9EE1-EC32E58CD7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB11F7D-2468-46EE-9EE1-EC32E58CD7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB11F7D-2468-46EE-9EE1-EC32E58CD7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE1E8DB-99AD-493E-B21B-35E0DB5721DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE1E8DB-99AD-493E-B21B-35E0DB5721DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE1E8DB-99AD-493E-B21B-35E0DB5721DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE1E8DB-99AD-493E-B21B-35E0DB5721DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3838F2E9-C113-4D6E-94EA-ECC551276D52}
+	EndGlobalSection
+EndGlobal
